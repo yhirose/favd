@@ -4,6 +4,8 @@
 # auther: Yuji Hirose <yuji.hirose.bug at gmail.com>
 # license: New BSD License
 #
+# install: include favd.sh in your .bashrc such as 'source ~/.favd.sh'.
+#
 # usage:
 #   favd add    - add the current directory to the path list
 #   favd NUMBER - jump to the selected path by number
