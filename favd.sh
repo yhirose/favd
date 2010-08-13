@@ -1,18 +1,8 @@
 #
-# favd.sh - favorite directories shell script
+# favd.sh (favorite directories)
 #
 # auther: Yuji Hirose <yuji.hirose.bug at gmail.com>
 # license: New BSD License
-#
-# install: include favd.sh in your .bashrc such as 'source ~/.favd.sh'.
-#
-# usage:
-#   favd add    - add the current directory to the path list
-#   favd NUMBER - jump to the selected path by number
-#   favd del    - delete a path from the path list
-#   favd edit   - open the path list
-#
-# note: .favd file contains your favorite paths.
 #
 
 function favd_select() {

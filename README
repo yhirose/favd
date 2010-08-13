@@ -1,9 +1,11 @@
-favd.sh - favorite directories shell script
+=================================================================
+ favd.sh (favorite directories) - directory changer shell script
+=================================================================
 
 auther: Yuji Hirose <yuji.hirose.bug at gmail.com>
 license: New BSD License
 
-install: include favd.sh in your .bashrc such as 'source ~/.favd.sh'.
+installation: include favd.sh in your .bashrc as: 'source ~/.favd.sh'.
 
 usage:
   favd add    - add the current directory to the path list
