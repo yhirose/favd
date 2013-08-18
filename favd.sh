@@ -8,7 +8,7 @@
 function favd_select() {
     # create .favd file if it doesn't exist.
     if ! [ -f ~/.favd ]; then
-        echo "" > ~/.favd
+        echo -n "" > ~/.favd
     fi
 
     # read paths
